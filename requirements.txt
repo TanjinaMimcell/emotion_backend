@@ -1,8 +1,8 @@
-opencv-python>=4.8.0
-opencv-python-headless>=4.8.0
-tensorflow>=2.14.0
-keras>=2.14.0
-deepface>=0.0.92
-numpy>=1.26.0
-pandas>=2.1.0
-matplotlib>=3.8.0
+flask
+deepface
+opencv-python
+tensorflow
+numpy
+pillow
+tf-keras
+gunicorn
